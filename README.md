@@ -6,14 +6,14 @@ John works at a clothing store. He has a large pile of socks that he must pair b
 For example, there are ``` n = 7```
 socks with colors ``` ar = [1,2,1,2,1,3,2]``` . There is one pair of color **1** and one of color **2**. There are three odd socks left, one of each color. The number of pairs is **2**.
 
-#####Function Description
+####Function Description
 
 The program uses a given array: 
 
     socks: array containing colors of each sock
 
 
-#####Constraints
+####Constraints
 
 ⋅⋅* ``` arr[i] >= 1 &&  arr[i] < 100 ```
 ⋅⋅* where ``` i >= 0 &&  i <= arr.length ```
