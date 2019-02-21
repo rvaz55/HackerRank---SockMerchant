@@ -1,6 +1,6 @@
 # HackerRank - SockMerchant
 
-#####Problem
+##### Problem
 John works at a clothing store. He has a large pile of socks that he must pair by color for sale. Given an array of integers representing the color of each sock, determine how many pairs of socks with matching colors there are.
 
 For example, there are ``` n = 7```
@@ -15,22 +15,22 @@ The program uses a given array:
 
 ##### Constraints
 
-⋅⋅* ``` arr[i] >= 1 &&  arr[i] < 100 ```
-⋅⋅* where ``` i >= 0 &&  i <= arr.length ```
+* ``` arr[i] >= 1 &&  arr[i] < 100 ```
+* where ``` i >= 0 &&  i <= arr.length ```
 
-#####Output Format
+##### Output Format
 
 Return the total number of matching pairs of socks that John can sell.
 
-######Sample Input
+###### Sample Input
 
 ```10 20 20 10 10 30 50 10 20```
 
-######Sample Output
+###### Sample Output
 
 ``` 3```
 
-#####Explanation
+##### Explanation
 
 ![alt text](https://s3.amazonaws.com/hr-challenge-images/25168/1474122392-c7b9097430-sock.png "Picture connecting all possible pairs in the given array.")
 
