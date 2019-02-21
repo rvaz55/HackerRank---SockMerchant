@@ -32,6 +32,6 @@ Return the total number of matching pairs of socks that John can sell.
 
 ### Explanation
 
-![alt text](https://s3.amazonaws.com/hr-challenge-images/25168/1474122392-c7b9097430-sock.png "Picture connecting all possible pairs in the given array.")
+![alt text](https://s3.amazonaws.com/hr-challenge-images/25168/1474122392-c7b9097430-sock.png "Picture connecting all possible pairs in the given array.Pictured: 10 paired to 10, 10 paired to 10, 20 paired to 20; three numbers who don't have pairs: 30, 20, 50")
 
 John can match **three** pairs of socks.
